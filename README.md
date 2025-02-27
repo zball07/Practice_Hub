@@ -1,0 +1,1 @@
+In these files you will find scattered code in "practice_note_1" that I have used for solving statistic homework in addition to "statistic homework". A linear regression model project exploring tennis stats in attempts to create a linear regression model able to predict a players winning % based on select player stats.
